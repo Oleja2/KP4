@@ -1,0 +1,264 @@
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+D:\КП\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\App.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+D:\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+D:\КП\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\КП\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\КП\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\КП\Hotel\Hotel\obj\Debug\MainWindow.baml
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.g.resources
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\КП\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\Main.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+D:\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+D:\КП\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+D:\КП\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\КП\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\КП\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\КП\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\КП\Hotel\Hotel\bin\Debug\EntityFramework.dll
+E:\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+E:\КП\Hotel\Hotel\bin\Debug\EntityFramework.xml
+E:\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+E:\КП\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+E:\КП\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\App.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+E:\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+E:\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+E:\КП\Hotel\Hotel\obj\Debug\MainWindow.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\Main.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+E:\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.g.resources
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\КП\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.dll
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.xml
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+E:\КП C#\КП\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\App.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\MainWindow.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\Main.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.g.resources
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.ResolveComReference.cache
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП C#\КП\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.ResolveComReference.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\App.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\MainWindow.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\Main.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.g.resources
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\КП C#\КП\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\EntityFramework.dll
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\EntityFramework.xml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.ResolveComReference.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\App.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\MainWindow.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\Main.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.g.resources
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\КП C#\КП\Курсовой проект\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.ResolveComReference.cache
+D:\Hotel\Hotel\obj\Debug\MainWindow.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\GuestPage.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\Main.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\RoomPage.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\WindowApplication.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+D:\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+D:\Hotel\Hotel\obj\Debug\App.g.cs
+D:\Hotel\Hotel\obj\Debug\Hotel_Content.g.cs
+D:\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+D:\Hotel\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+D:\Hotel\Hotel\obj\Debug\MainWindow.baml
+D:\Hotel\Hotel\obj\Debug\Views\ApplicationPage.baml
+D:\Hotel\Hotel\obj\Debug\Views\GuestPage.baml
+D:\Hotel\Hotel\obj\Debug\Views\Main.baml
+D:\Hotel\Hotel\obj\Debug\Views\RoomPage.baml
+D:\Hotel\Hotel\obj\Debug\Views\WindowApplication.baml
+D:\Hotel\Hotel\obj\Debug\Views\WindowEditGuest.baml
+D:\Hotel\Hotel\obj\Debug\Views\WindowEditRoom.baml
+D:\Hotel\Hotel\obj\Debug\Hotel.g.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\Hotel.exe.config
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\Hotel.exe
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\Hotel.pdb
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\EntityFramework.dll
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\EntityFramework.xml
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовой приложение 4 курс\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.ResolveComReference.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\MainWindow.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\ApplicationPage.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\GuestPage.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\Main.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\RoomPage.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowApplication.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowEditGuest.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowEditRoom.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\App.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel_Content.g.cs
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel_MarkupCompile.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel_MarkupCompile.lref
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\MainWindow.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\ApplicationPage.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\GuestPage.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\Main.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\RoomPage.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowApplication.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowEditGuest.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Views\WindowEditRoom.baml
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.g.resources
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.exe
+E:\Курсовой приложение 4 курс\Hotel\obj\Debug\Hotel.pdb
